@@ -5,5 +5,5 @@ Menurut dia, kebutuhan untuk mengubah atau mengamandemen AD/ ART masih menjadi w
 Kami juga membicarakan tentang intern (magang). Kak Fadhriga cerita kalau kemaren dia magang di gojek.  Dia magang di Jakarta. Magangnya seru dan banyak manfaat yang didapat. Kak Fadhriga juga cerita kalau temannya saat magang kemarin ada yang mengundurkan diri dari proses magang tersebut, lalu melanjutkan untuk menjadi full time dan sekarang sedang pendidikan di India. Dia juga bilang kalau dosen banyak yang memberikan nilai lebih baik saat KP kalau mahasiswanya mengambil KP yang banyak ngoding.
 
 <p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+  <img src="16518163-16518225-16518252-16518293-16518296.jpg" alt="Sublime's custom image"/>
 </p>
